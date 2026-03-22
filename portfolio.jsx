@@ -445,7 +445,7 @@ const Experience = () => {
       title: 'Team Lead',
       company: 'Kognitive Sales Solutions',
       location: 'Truro, Nova Scotia',
-      period: 'February 2025 - Present',
+      period: 'July 2024 - Present',
       description: 'Leading Atlantic regional team of Field Marketing Representatives, driving performance through daily coaching, strategic planning, and data-driven decision-making.',
       highlights: [
         'Manage teams across Kitchener-Waterloo, Hamilton, Guelph, and Niagara',
@@ -455,32 +455,25 @@ const Experience = () => {
       ],
       color: 'cyan'
     },
+    
     {
-      title: 'Sales Gas Manager',
-      company: 'Kognitive Sales Solutions',
-      location: 'Kitchener, Ontario',
-      period: 'April 2025 - August 2025',
-      description: 'Led field sales team for Canadian Tire Gas Program across Tri Region.',
-      highlights: [
-        'Drove customer engagement and maximized sales/activations',
-        'Coached and mentored Field Marketing Representatives',
-        'Executed in-field marketing promotions and sales strategies',
-        'Managed daily reports and tracked team performance'
-      ],
-      color: 'blue'
-    },
-    {
-      title: 'MERN Stack Developer',
-      company: 'Ulticus India',
-      location: 'Ahmedabad',
-      period: 'January 2023 - January 2024',
-      description: 'Architected production web applications using cutting-edge technologies.',
-      highlights: [
-        'Designed company website using Next.js, CSS3, and React-Bootstrap',
-        'Built admin panel with React.js, Express.js, Node.js, and GraphQL APIs',
-        'Implemented PWA technologies and Stripe payment integration',
-        'Developed push and email notification systems for user engagement'
-      ],
+      title: 'IT System Engineer',
+      company: 'Ulticus LLC',
+      location: 'Remote',
+      period: 'January 2023 - January 2026',
+      description: 'Built and scaled production-grade web applications serving thousands of concurrent users, taking ownership across the full stack — from frontend UI to server infrastructure and database administration.',
+     highlights: [
+  'Built and scaled production-grade web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Next.js, serving thousands of concurrent users across multiple production environments',
+  'Developed full-stack apps delivering responsive, accessible experiences across all devices using React.js, Next.js, and CSS3 with React-Bootstrap',
+  'Built and integrated RESTful APIs and GraphQL services, including Stripe payment processing with webhook handling for PCI-compliant transactions',
+  'Engineered a React.js + Node.js admin panel with GraphQL for real-time data management, flexible querying, and role-based access control',
+  'Delivered PWA features — offline support, background sync, and push/email notifications — measurably improving performance and user retention',
+  'Set up and managed CI/CD pipelines for automated testing, builds, and deployments, reducing release errors and cutting cycle times across staging and production',
+  'Monitored server uptime and application health using centralized logging tools; resolved production incidents and maintained 99%+ service availability',
+  'Administered MongoDB databases — schema design, indexing, and query optimization — achieving sub-100ms response times under load',
+  'Enforced security best practices: JWT/OAuth authentication, XSS protection, CORS/CSRF configuration, and encrypted data transmission',
+  'Produced technical documentation (architecture guides, API references, deployment runbooks) and collaborated in Agile/Scrum sprints with Git-based code reviews'
+],
       color: 'purple'
     },
     {
