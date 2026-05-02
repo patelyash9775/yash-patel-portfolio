@@ -460,7 +460,7 @@ const Experience = () => {
       title: 'IT System Engineer',
       company: 'Ulticus LLC',
       location: 'Remote',
-      period: 'January 2023 - January 2024',
+      period: 'January 2023 - January 2026',
       description: 'Built and scaled production-grade web applications serving thousands of concurrent users, taking ownership across the full stack — from frontend UI to server infrastructure and database administration.',
      highlights: [
   'Built and scaled production-grade web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Next.js, serving thousands of concurrent users across multiple production environments',
